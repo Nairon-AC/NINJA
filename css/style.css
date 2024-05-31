@@ -1,0 +1,39 @@
+div {
+    
+}
+
+h2 {
+    color: brown;
+
+}
+
+p {
+    font-size: 24px;
+}
+
+img {
+    height: 400px;
+    width: 600px;
+}
+body {
+    margin-left: 30px;
+}
+
+.navbar{
+    background: #d0393c;
+    padding: 25px 20px;
+   
+}
+.navbar div a{
+    color: aliceblue;
+}
+
+h5 {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+h4 {
+    font-size: 24px;
+    color: black;
+}
